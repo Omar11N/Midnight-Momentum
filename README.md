@@ -41,7 +41,7 @@ Currently in active development. This repository contains the landing page and w
 
 ## Contact
 
-- Website: [https://midnightmomentum.up.railway.app](midnightmomentum.up.railway.app)
+- Website: ([midnightmomentum.up.railway.app](https://midnightmomentum.up.railway.app/))
 - Email: obaiazed@gmail.com
 
 ---
