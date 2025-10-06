@@ -1,7 +1,7 @@
 # Midnight Momentum
 
 <div align="center">
-  <img src="public/icon.png" alt="Midnight Momentum Logo" width="200"/>
+  <img src="iconAPK_smaller.png" alt="Midnight Momentum Logo" width="200"/>
   
   **Connect to Your Better Self**
   
