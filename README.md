@@ -5,7 +5,7 @@
   
   **Connect to Your Better Self**
   
-  ([midnightmomentum.up.railway.app](https://midnightmomentum.com/))
+  ([midnightmomentum.com](https://midnightmomentum.com/))
 </div>
 
 ---
