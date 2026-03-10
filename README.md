@@ -52,7 +52,7 @@ For the Eva AI companion module, see the [EVA-Chatbot repository](https://github
 
 ## Contact
 
-- 🌐 [midnightmomentum.up.railway.app](https://midnightmomentum.up.railway.app/)
+- 🌐 [midnightmomentum.com](https://midnightmomentum.com/)
 - 📧 [obaiazed@gmail.com](mailto:obaiazed@gmail.com)
 
 ---
